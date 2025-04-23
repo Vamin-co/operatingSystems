@@ -1,4 +1,5 @@
 # Shell Script Automation Report
+Name: Vandan Amin
 
 ## Project Overview
 This project focuses on learning basic shell scripting in Linux. The goal was to write a script that:
