@@ -24,6 +24,13 @@ The shell script (`create_files_with_subdirs.sh`) does the following:
 
 ---
 
+## Purpose of This Script
+The goal of the script is to practice:
+- Automating repetitive tasks
+- Creating structured file systems
+- Writing dynamic content using shell commands
+- Understanding how to work with arrays, loops, and file redirection in bash
+
 ---
 
 ## Linux Command Explanations
@@ -207,10 +214,3 @@ sudo chown john:john data.txt
 This command changes the owner of `data.txt` to the user `john`. Useful when working with permissions on shared files or system resources.
 
 ---
-
-## Purpose of This Script
-The goal of the script is to practice:
-- Automating repetitive tasks
-- Creating structured file systems
-- Writing dynamic content using shell commands
-- Understanding how to work with arrays, loops, and file redirection in bash
