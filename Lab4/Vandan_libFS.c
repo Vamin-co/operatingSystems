@@ -1,5 +1,3 @@
-// Vandan_libFS.c
-
 #include "Vandan_libFS.h"
 
 static File fileTable[MAX_FILES];
