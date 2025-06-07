@@ -1,5 +1,3 @@
-// Vandan_testFS.c
-
 #include "Vandan_libFS.h"
 
 void showMenu() {
